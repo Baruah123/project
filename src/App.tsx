@@ -80,7 +80,7 @@ function App() {
               <div className="mt-12 pt-8 border-t border-gray-700">
                 <div className="flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
                   <p className="hover:text-white transition-colors mb-2 md:mb-0 cursor-pointer">
-                    © {new Date().getFullYear()} ABC India. All rights reserved.
+                    © {new Date().getFullYear()} Avoy Baruah. All rights reserved.
                   </p>
                   <p className="text-center md:text-right hover:text-blue-400 transition-colors cursor-pointer">
                     Practical Test Case | ADTUPTC14112024 | John Doe | +1234567890
